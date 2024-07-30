@@ -13,7 +13,7 @@ We have thoroughly tested these steps with Unity versions 2021.3.26f1 and higher
 1. **Install the Package from GitHub:**
    - Install the package via Git URL:
      ```
-     https://github.com/Insight-XR/Unity-SDK-Sandbox.git
+     https://github.com/Insight-XR/Unity-SDK.git
      ```
    - If you encounter SSL disconnect errors while installing the SDK, you can download the repository as a zip, extract it, then add the project from disk and select the `package.json` file in the `src/InsightXRForUnity` folder.
 
